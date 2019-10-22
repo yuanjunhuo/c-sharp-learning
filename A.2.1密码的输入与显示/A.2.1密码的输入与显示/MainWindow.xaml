@@ -1,0 +1,16 @@
+﻿<Window x:Class="A._2._1密码的输入与显示.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A._2._1密码的输入与显示"
+        mc:Ignorable="d"
+        Title="用户密码输入与显示" Height="450" Width="800" Background="#FFE7F7E5">
+    <Grid>
+        <Label Content="密码：" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="122,98,0,0" Width="66" RenderTransformOrigin="0.577,1.64" FontSize="20"/>
+        <PasswordBox PasswordChanged=" CheckBox_Checked" Name="hjythree" HorizontalAlignment="Left" Height="35" Margin="193,98,0,0" VerticalAlignment="Top" Width="293" Background="#FFF5EAEA" FontSize="20"/>
+        <CheckBox Name="hjyone" Content="显示密码" HorizontalAlignment="Left" Height="35" Margin="564,104,0,0" VerticalAlignment="Top" Width="120" FontSize="20" Checked="CheckBox_Checked"/>
+        <TextBox Name="hjytwo" HorizontalAlignment="Left" Height="70" Margin="142,204,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="523" Background="#FFEEE5E5" FontSize="24"/>
+
+    </Grid>
+</Window>

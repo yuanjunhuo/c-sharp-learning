@@ -1,0 +1,15 @@
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\bin\Debug\A.2.1密码的输入与显示.exe.config
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\bin\Debug\A.2.1密码的输入与显示.exe
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\bin\Debug\A.2.1密码的输入与显示.pdb
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\obj\Debug\A.2.1密码的输入与显示.csprojAssemblyReference.cache
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\obj\Debug\MainWindow.g.cs
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\obj\Debug\App.g.cs
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\obj\Debug\A.2.1密码的输入与显示_MarkupCompile.cache
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\obj\Debug\A.2.1密码的输入与显示_MarkupCompile.lref
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\obj\Debug\MainWindow.baml
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\obj\Debug\A.2.1密码的输入与显示.g.resources
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\obj\Debug\A._2._1密码的输入与显示.Properties.Resources.resources
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\obj\Debug\A.2.1密码的输入与显示.csproj.GenerateResource.cache
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\obj\Debug\A.2.1密码的输入与显示.csproj.CoreCompileInputs.cache
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\obj\Debug\A.2.1密码的输入与显示.exe
+C:\Users\白墨\Desktop\A.2.1密码的输入与显示\A.2.1密码的输入与显示\obj\Debug\A.2.1密码的输入与显示.pdb
