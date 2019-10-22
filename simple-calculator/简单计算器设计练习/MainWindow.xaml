@@ -1,0 +1,27 @@
+﻿<Window x:Class="简单计算器设计练习.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:简单计算器设计练习"
+        mc:Ignorable="d"
+        Title="简单计算器设计练习" Height="500" Width="800" Background="#FFEEE9F3">
+    <Grid RenderTransformOrigin="0.421,0.478" >
+        <Label Content="请选择运算类型" HorizontalAlignment="Left" Height="33" Margin="51,49,0,0" VerticalAlignment="Top" Width="163" FontSize="20"/>
+        <Canvas  >
+        <RadioButton Name="add"  Content="加法" HorizontalAlignment="Left" Height="15" Margin="84,129,0,0" VerticalAlignment="Top" Width="104" Checked="Add_Checked" />
+            <RadioButton Name="sub" Content="减法" HorizontalAlignment="Left" Height="15" Margin="188,129,0,0" VerticalAlignment="Top" Width="100" Checked="Add_Checked" />
+            <RadioButton Name="che" Content="乘法" HorizontalAlignment="Left" Height="15" Margin="293,129,0,0" VerticalAlignment="Top" Width="92"  Checked="Add_Checked"/>
+            <RadioButton Name="chu" Content="除法" HorizontalAlignment="Left" Height="15" Margin="390,133,0,0" VerticalAlignment="Top" Width="100"  Checked="Add_Checked"/>
+            <RadioButton Name="mod" Content="取模" HorizontalAlignment="Left" Height="15" Margin="517,137,0,0" VerticalAlignment="Top" Width="106"   Checked="Add_Checked"/>
+        </Canvas>
+        <Label Name="hjyone" Content="" HorizontalAlignment="Left" Margin="67,195,0,0" VerticalAlignment="Top" Width="121" Height="30"/>
+        <TextBox Name="textone" HorizontalAlignment="Left" Height="36" Margin="67,304,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="104"/>
+        <TextBox Name="texttwo" HorizontalAlignment="Left" Height="36" Margin="259,304,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="104"/>
+        <TextBox Name="textthree"  IsEnabled="true" HorizontalAlignment="Left" Height="36" Margin="456,304,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="106"/>
+        <Button  Content="计算" HorizontalAlignment="Left" Height="36" Margin="641,304,0,0" VerticalAlignment="Top" Width="99" FontSize="16" Click="Button_Click"/>
+        <Label Content="=" HorizontalAlignment="Left" Height="36" Margin="405,304,0,0" VerticalAlignment="Top" Width="46" FontSize="16"/>
+        <Label Name="hjytwo" Content="" HorizontalAlignment="Left" Height="22" Margin="193,311,0,0" VerticalAlignment="Top" Width="40"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\bin\Debug\简单计算器设计练习.exe.config
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\bin\Debug\简单计算器设计练习.exe
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\bin\Debug\简单计算器设计练习.pdb
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习.csprojAssemblyReference.cache
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\obj\Debug\MainWindow.g.cs
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\obj\Debug\App.g.cs
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习_MarkupCompile.cache
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习_MarkupCompile.lref
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\obj\Debug\MainWindow.baml
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习.g.resources
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习.Properties.Resources.resources
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习.csproj.GenerateResource.cache
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习.csproj.CoreCompileInputs.cache
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习.exe
+C:\Users\白墨\Desktop\简单计算器设计练习\简单计算器设计练习\obj\Debug\简单计算器设计练习.pdb
