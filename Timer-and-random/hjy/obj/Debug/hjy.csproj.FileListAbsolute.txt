@@ -1,0 +1,15 @@
+C:\Users\白墨\Desktop\c#\hjy\hjy\bin\Debug\hjy.exe.config
+C:\Users\白墨\Desktop\c#\hjy\hjy\bin\Debug\hjy.exe
+C:\Users\白墨\Desktop\c#\hjy\hjy\bin\Debug\hjy.pdb
+C:\Users\白墨\Desktop\c#\hjy\hjy\obj\Debug\hjy.csprojAssemblyReference.cache
+C:\Users\白墨\Desktop\c#\hjy\hjy\obj\Debug\MainWindow.g.cs
+C:\Users\白墨\Desktop\c#\hjy\hjy\obj\Debug\App.g.cs
+C:\Users\白墨\Desktop\c#\hjy\hjy\obj\Debug\hjy_MarkupCompile.cache
+C:\Users\白墨\Desktop\c#\hjy\hjy\obj\Debug\hjy_MarkupCompile.lref
+C:\Users\白墨\Desktop\c#\hjy\hjy\obj\Debug\MainWindow.baml
+C:\Users\白墨\Desktop\c#\hjy\hjy\obj\Debug\hjy.g.resources
+C:\Users\白墨\Desktop\c#\hjy\hjy\obj\Debug\hjy.Properties.Resources.resources
+C:\Users\白墨\Desktop\c#\hjy\hjy\obj\Debug\hjy.csproj.GenerateResource.cache
+C:\Users\白墨\Desktop\c#\hjy\hjy\obj\Debug\hjy.csproj.CoreCompileInputs.cache
+C:\Users\白墨\Desktop\c#\hjy\hjy\obj\Debug\hjy.exe
+C:\Users\白墨\Desktop\c#\hjy\hjy\obj\Debug\hjy.pdb
