@@ -1,0 +1,6 @@
+E:\编码文件\vs编码文件\课堂练习源码\EncodingExercise\bin\Debug\EncodingExercise.exe.config
+E:\编码文件\vs编码文件\课堂练习源码\EncodingExercise\bin\Debug\EncodingExercise.exe
+E:\编码文件\vs编码文件\课堂练习源码\EncodingExercise\bin\Debug\EncodingExercise.pdb
+E:\编码文件\vs编码文件\课堂练习源码\EncodingExercise\obj\Debug\EncodingExercise.csprojAssemblyReference.cache
+E:\编码文件\vs编码文件\课堂练习源码\EncodingExercise\obj\Debug\EncodingExercise.exe
+E:\编码文件\vs编码文件\课堂练习源码\EncodingExercise\obj\Debug\EncodingExercise.pdb

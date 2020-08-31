@@ -1,0 +1,14 @@
+D:\c#\WcfService1\mywcf\bin\Debug\mywcf.exe.config
+D:\c#\WcfService1\mywcf\bin\Debug\mywcf.exe
+D:\c#\WcfService1\mywcf\bin\Debug\mywcf.pdb
+D:\c#\WcfService1\mywcf\obj\Debug\MainWindow.g.cs
+D:\c#\WcfService1\mywcf\obj\Debug\App.g.cs
+D:\c#\WcfService1\mywcf\obj\Debug\mywcf_MarkupCompile.cache
+D:\c#\WcfService1\mywcf\obj\Debug\mywcf_MarkupCompile.lref
+D:\c#\WcfService1\mywcf\obj\Debug\MainWindow.baml
+D:\c#\WcfService1\mywcf\obj\Debug\mywcf.g.resources
+D:\c#\WcfService1\mywcf\obj\Debug\mywcf.Properties.Resources.resources
+D:\c#\WcfService1\mywcf\obj\Debug\mywcf.csproj.GenerateResource.cache
+D:\c#\WcfService1\mywcf\obj\Debug\mywcf.csproj.CoreCompileInputs.cache
+D:\c#\WcfService1\mywcf\obj\Debug\mywcf.exe
+D:\c#\WcfService1\mywcf\obj\Debug\mywcf.pdb

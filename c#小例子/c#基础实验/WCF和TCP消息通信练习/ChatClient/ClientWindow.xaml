@@ -1,0 +1,46 @@
+﻿<Window x:Class="ChatClient.ClientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChatClient"
+        mc:Ignorable="d"
+        Title="ClientWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <DockPanel Background="AliceBlue">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="用户名：" FontSize="22" VerticalAlignment="Center" Margin="0,0,0,52.2" Height="48" HorizontalAlignment="Left" Grid.RowSpan="2" Width="132" VerticalContentAlignment="Center"/>
+                <TextBox Name="userText" HorizontalAlignment="Left" FontSize="22" Height="Auto" TextWrapping="Wrap" VerticalAlignment="Center" Width="265" Grid.Column="1" Grid.ColumnSpan="2" Margin="0,0,0,51.8" Grid.RowSpan="2"/>
+                <Button Content="登录" Background="Azure" FontSize="22" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Grid.Column="2" Margin="45.2,4,231.6,5.8" Height="43" Click="Button_Click"/>
+                <Button Content="退出登录" Background="Azure" FontSize="22" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Grid.Column="2" Margin="235.2,4,41.6,5.8" Height="43" Click="Button_Click_2"/>
+                <Label Content="在线用户" FontSize="22" HorizontalAlignment="Left" Margin="0,0,0,4" Grid.Row="1" VerticalAlignment="Center" Width="132" Height="45" VerticalContentAlignment="Center"/>
+                <Label Content="对话消息" FontSize="22" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="0" Grid.Row="1" VerticalAlignment="Center"/>
+            </Grid>
+        </DockPanel>
+        <DockPanel Grid.Row="1" Background="Cyan">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <ListBox Grid.Column="0" Background="LightYellow" Name="listBoxOnLine" HorizontalAlignment="Left" Height="315" VerticalAlignment="Top" Width="158"/>
+                <TextBox Name="message" Grid.Column="1" FontSize="20" Background="Yellow" HorizontalAlignment="Left" Height="35" Margin="10.6,270,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="450"/>
+                <Button Background="Azure" Content="发送" FontSize="20" Grid.Column="1" HorizontalAlignment="Left" Margin="506.6,270,0,0" VerticalAlignment="Top" Width="103" Height="30" Click="Button_Click_1"/>
+                <TextBlock Name="talkMessage" Grid.Column="1" HorizontalAlignment="Left" Margin="10.6,10,0,0" TextWrapping="Wrap"  FontSize="20" Background="Cyan" VerticalAlignment="Top" Height="241" Width="599"/>
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Window>

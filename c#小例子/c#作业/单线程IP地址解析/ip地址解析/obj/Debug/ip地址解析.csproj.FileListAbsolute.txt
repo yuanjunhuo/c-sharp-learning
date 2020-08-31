@@ -1,0 +1,15 @@
+D:\c#学习\ip地址解析\ip地址解析\obj\Debug\ip地址解析.csprojAssemblyReference.cache
+D:\c#学习\ip地址解析\ip地址解析\obj\Debug\MainWindow.g.cs
+D:\c#学习\ip地址解析\ip地址解析\obj\Debug\App.g.cs
+D:\c#学习\ip地址解析\ip地址解析\obj\Debug\ip地址解析_MarkupCompile.cache
+D:\c#学习\ip地址解析\ip地址解析\obj\Debug\ip地址解析_MarkupCompile.lref
+D:\c#学习\ip地址解析\ip地址解析\bin\Debug\ip地址解析.exe.config
+D:\c#学习\ip地址解析\ip地址解析\bin\Debug\ip地址解析.exe
+D:\c#学习\ip地址解析\ip地址解析\bin\Debug\ip地址解析.pdb
+D:\c#学习\ip地址解析\ip地址解析\obj\Debug\MainWindow.baml
+D:\c#学习\ip地址解析\ip地址解析\obj\Debug\ip地址解析.g.resources
+D:\c#学习\ip地址解析\ip地址解析\obj\Debug\ip地址解析.Properties.Resources.resources
+D:\c#学习\ip地址解析\ip地址解析\obj\Debug\ip地址解析.csproj.GenerateResource.cache
+D:\c#学习\ip地址解析\ip地址解析\obj\Debug\ip地址解析.csproj.CoreCompileInputs.cache
+D:\c#学习\ip地址解析\ip地址解析\obj\Debug\ip地址解析.exe
+D:\c#学习\ip地址解析\ip地址解析\obj\Debug\ip地址解析.pdb

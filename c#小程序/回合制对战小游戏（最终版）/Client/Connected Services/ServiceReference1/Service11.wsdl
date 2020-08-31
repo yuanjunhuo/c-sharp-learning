@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="GameExample" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="GameExample" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="GameExample/Imports">
+      <xsd:import schemaLocation="http://localhost:52697/Service1.svc?xsd=xsd0" namespace="GameExample" />
+      <xsd:import schemaLocation="http://localhost:52697/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_Login_InputMessage">
+    <wsdl:part name="parameters" element="tns:Login" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Loginout_InputMessage">
+    <wsdl:part name="parameters" element="tns:Loginout" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SitDown_InputMessage">
+    <wsdl:part name="parameters" element="tns:SitDown" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetUp_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUp" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Start_InputMessage">
+    <wsdl:part name="parameters" element="tns:Start" />
+  </wsdl:message>
+  <wsdl:message name="IService1_MakeOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:MakeOrder" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Talk_InputMessage">
+    <wsdl:part name="parameters" element="tns:Talk" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ShowLogin_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowLogin" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ShowLoginout_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowLoginout" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ShowTalk_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowTalk" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateTablesInfo_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:UpdateTablesInfo" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ShowSitDown_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowSitDown" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ShowGetUp_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowGetUp" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ShowStart_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowStart" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Gamestart_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:Gamestart" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ShowOpertion_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowOpertion" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ShowResult_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowResult" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Showmpnot_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:Showmpnot" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ShowWin_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowWin" />
+  </wsdl:message>
+  <wsdl:portType msc:usingSession="true" name="IService1">
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="Login">
+      <wsdl:input wsaw:Action="GameExample/IService1/Login" message="tns:IService1_Login_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="Loginout">
+      <wsdl:input wsaw:Action="GameExample/IService1/Loginout" message="tns:IService1_Loginout_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="SitDown">
+      <wsdl:input wsaw:Action="GameExample/IService1/SitDown" message="tns:IService1_SitDown_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="GetUp">
+      <wsdl:input wsaw:Action="GameExample/IService1/GetUp" message="tns:IService1_GetUp_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="Start">
+      <wsdl:input wsaw:Action="GameExample/IService1/Start" message="tns:IService1_Start_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="MakeOrder">
+      <wsdl:input wsaw:Action="GameExample/IService1/MakeOrder" message="tns:IService1_MakeOrder_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="Talk">
+      <wsdl:input wsaw:Action="GameExample/IService1/Talk" message="tns:IService1_Talk_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="ShowLogin">
+      <wsdl:output wsaw:Action="GameExample/IService1/ShowLogin" message="tns:IService1_ShowLogin_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="ShowLoginout">
+      <wsdl:output wsaw:Action="GameExample/IService1/ShowLoginout" message="tns:IService1_ShowLoginout_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="ShowTalk">
+      <wsdl:output wsaw:Action="GameExample/IService1/ShowTalk" message="tns:IService1_ShowTalk_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="UpdateTablesInfo">
+      <wsdl:output wsaw:Action="GameExample/IService1/UpdateTablesInfo" message="tns:IService1_UpdateTablesInfo_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="ShowSitDown">
+      <wsdl:output wsaw:Action="GameExample/IService1/ShowSitDown" message="tns:IService1_ShowSitDown_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="ShowGetUp">
+      <wsdl:output wsaw:Action="GameExample/IService1/ShowGetUp" message="tns:IService1_ShowGetUp_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="ShowStart">
+      <wsdl:output wsaw:Action="GameExample/IService1/ShowStart" message="tns:IService1_ShowStart_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="Gamestart">
+      <wsdl:output wsaw:Action="GameExample/IService1/Gamestart" message="tns:IService1_Gamestart_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="ShowOpertion">
+      <wsdl:output wsaw:Action="GameExample/IService1/ShowOpertion" message="tns:IService1_ShowOpertion_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="ShowResult">
+      <wsdl:output wsaw:Action="GameExample/IService1/ShowResult" message="tns:IService1_ShowResult_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="Showmpnot">
+      <wsdl:output wsaw:Action="GameExample/IService1/Showmpnot" message="tns:IService1_Showmpnot_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="ShowWin">
+      <wsdl:output wsaw:Action="GameExample/IService1/ShowWin" message="tns:IService1_ShowWin_OutputCallbackMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

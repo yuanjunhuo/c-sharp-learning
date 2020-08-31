@@ -1,0 +1,7 @@
+D:\c#学习\网络网卡信息检测\网络网卡信息检测\bin\Debug\网络网卡信息检测.exe.config
+D:\c#学习\网络网卡信息检测\网络网卡信息检测\bin\Debug\网络网卡信息检测.exe
+D:\c#学习\网络网卡信息检测\网络网卡信息检测\bin\Debug\网络网卡信息检测.pdb
+D:\c#学习\网络网卡信息检测\网络网卡信息检测\obj\Debug\网络网卡信息检测.csprojAssemblyReference.cache
+D:\c#学习\网络网卡信息检测\网络网卡信息检测\obj\Debug\网络网卡信息检测.csproj.CoreCompileInputs.cache
+D:\c#学习\网络网卡信息检测\网络网卡信息检测\obj\Debug\网络网卡信息检测.exe
+D:\c#学习\网络网卡信息检测\网络网卡信息检测\obj\Debug\网络网卡信息检测.pdb

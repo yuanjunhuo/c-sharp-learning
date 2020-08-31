@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4c5bff57-6438-459e-b5e3-e0d6c2fc9005" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/ChatServer/ChatService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WcfChatExample.wsdl" MetadataType="Wsdl" ID="8da5cca1-76a0-4fa5-acd0-4ee345ae05fa" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChatServer/ChatService/mex" />
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="43f8ae74-c6cc-44f8-b976-082bb9de8564" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChatServer/ChatService/mex" />
+    <MetadataFile FileName="WcfChatExample.xsd" MetadataType="Schema" ID="e61bea22-384f-462f-8672-33ff21f6efb4" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChatServer/ChatService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="62359302-9441-4db6-9f2f-7b117a528a6d" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChatServer/ChatService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\ChatServer\ChatServer\bin\Debug\ChatServer.dll.config
+C:\Users\Administrator\Downloads\ChatServer\ChatServer\bin\Debug\ChatServer.dll
+C:\Users\Administrator\Downloads\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Administrator\Downloads\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ChatServer\ChatServer\obj\Debug\ChatServer.dll
+C:\Users\Administrator\Downloads\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\白墨\Desktop\c#上交作业\ChatServer\ChatServer\bin\Debug\ChatServer.dll.config
+C:\Users\白墨\Desktop\c#上交作业\ChatServer\ChatServer\bin\Debug\ChatServer.dll
+C:\Users\白墨\Desktop\c#上交作业\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\白墨\Desktop\c#上交作业\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\白墨\Desktop\c#上交作业\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\白墨\Desktop\c#上交作业\ChatServer\ChatServer\obj\Debug\ChatServer.dll
+C:\Users\白墨\Desktop\c#上交作业\ChatServer\ChatServer\obj\Debug\ChatServer.pdb

@@ -1,0 +1,15 @@
+D:\c#学习\进程管理器\进程管理器\obj\Debug\进程管理器.csprojAssemblyReference.cache
+D:\c#学习\进程管理器\进程管理器\obj\Debug\MainWindow.g.cs
+D:\c#学习\进程管理器\进程管理器\obj\Debug\App.g.cs
+D:\c#学习\进程管理器\进程管理器\obj\Debug\进程管理器_MarkupCompile.cache
+D:\c#学习\进程管理器\进程管理器\obj\Debug\进程管理器_MarkupCompile.lref
+D:\c#学习\进程管理器\进程管理器\bin\Debug\进程管理器.exe.config
+D:\c#学习\进程管理器\进程管理器\bin\Debug\进程管理器.exe
+D:\c#学习\进程管理器\进程管理器\bin\Debug\进程管理器.pdb
+D:\c#学习\进程管理器\进程管理器\obj\Debug\MainWindow.baml
+D:\c#学习\进程管理器\进程管理器\obj\Debug\进程管理器.g.resources
+D:\c#学习\进程管理器\进程管理器\obj\Debug\进程管理器.Properties.Resources.resources
+D:\c#学习\进程管理器\进程管理器\obj\Debug\进程管理器.csproj.GenerateResource.cache
+D:\c#学习\进程管理器\进程管理器\obj\Debug\进程管理器.csproj.CoreCompileInputs.cache
+D:\c#学习\进程管理器\进程管理器\obj\Debug\进程管理器.exe
+D:\c#学习\进程管理器\进程管理器\obj\Debug\进程管理器.pdb

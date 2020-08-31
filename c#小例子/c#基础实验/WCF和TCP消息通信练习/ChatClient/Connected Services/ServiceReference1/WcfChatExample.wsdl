@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="WcfChatExample" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="WcfChatExample" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="WcfChatExample/Imports">
+      <xsd:import namespace="WcfChatExample" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IChatService_Login_InputMessage">
+    <wsdl:part name="parameters" element="tns:Login" />
+  </wsdl:message>
+  <wsdl:message name="IChatService_Logout_InputMessage">
+    <wsdl:part name="parameters" element="tns:Logout" />
+  </wsdl:message>
+  <wsdl:message name="IChatService_Talk_InputMessage">
+    <wsdl:part name="parameters" element="tns:Talk" />
+  </wsdl:message>
+  <wsdl:message name="IChatService_ShowLogin_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowLogin" />
+  </wsdl:message>
+  <wsdl:message name="IChatService_Showlogout_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:Showlogout" />
+  </wsdl:message>
+  <wsdl:message name="IChatService_ShowTalk_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowTalk" />
+  </wsdl:message>
+  <wsdl:message name="IChatService_InitUsersInfo_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:InitUsersInfo" />
+  </wsdl:message>
+  <wsdl:portType name="IChatService">
+    <wsdl:operation name="Login">
+      <wsdl:input wsaw:Action="WcfChatExample/IChatService/Login" message="tns:IChatService_Login_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Logout">
+      <wsdl:input wsaw:Action="WcfChatExample/IChatService/Logout" message="tns:IChatService_Logout_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Talk">
+      <wsdl:input wsaw:Action="WcfChatExample/IChatService/Talk" message="tns:IChatService_Talk_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ShowLogin">
+      <wsdl:output wsaw:Action="WcfChatExample/IChatService/ShowLogin" message="tns:IChatService_ShowLogin_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Showlogout">
+      <wsdl:output wsaw:Action="WcfChatExample/IChatService/Showlogout" message="tns:IChatService_Showlogout_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ShowTalk">
+      <wsdl:output wsaw:Action="WcfChatExample/IChatService/ShowTalk" message="tns:IChatService_ShowTalk_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InitUsersInfo">
+      <wsdl:output wsaw:Action="WcfChatExample/IChatService/InitUsersInfo" message="tns:IChatService_InitUsersInfo_OutputCallbackMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

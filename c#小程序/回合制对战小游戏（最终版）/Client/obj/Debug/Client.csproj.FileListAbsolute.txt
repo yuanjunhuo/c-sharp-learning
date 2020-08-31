@@ -1,0 +1,98 @@
+C:\Users\DELL\Desktop\Client\obj\Debug\LoginForm.g.cs
+C:\Users\DELL\Desktop\Client\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\Client\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\DELL\Desktop\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\DELL\Desktop\Client\bin\Debug\Client.exe.config
+C:\Users\DELL\Desktop\Client\bin\Debug\Client.exe
+C:\Users\DELL\Desktop\Client\bin\Debug\Client.pdb
+C:\Users\DELL\Desktop\Client\obj\Debug\LoginForm.baml
+C:\Users\DELL\Desktop\Client\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\Client\obj\Debug\Client.g.resources
+C:\Users\DELL\Desktop\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\DELL\Desktop\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Client\obj\Debug\Client.exe
+C:\Users\DELL\Desktop\Client\obj\Debug\Client.pdb
+C:\Users\DELL\Desktop\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\bin\Debug\Client.exe.config
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\bin\Debug\Client.exe
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\bin\Debug\Client.pdb
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\LoginForm.g.cs
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\MainWindow.g.cs
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\App.g.cs
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\LoginForm.baml
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\MainWindow.baml
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\Client.g.resources
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\Client.exe
+C:\Users\白墨\Desktop\dashiyan\回合制（除聊天）\Client\obj\Debug\Client.pdb
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\bin\Debug\Client.exe.config
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\bin\Debug\Client.exe
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\bin\Debug\Client.pdb
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\LoginForm.g.cs
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\MainWindow.g.cs
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\App.g.cs
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client_MarkupCompile.cache
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client_MarkupCompile.lref
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\LoginForm.baml
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\MainWindow.baml
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.g.resources
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.exe
+D:\Downloads\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.pdb
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\bin\Debug\Client.exe.config
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\bin\Debug\Client.exe
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\bin\Debug\Client.pdb
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\LoginForm.g.cs
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\LoginForm.baml
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.g.resources
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.exe
+C:\Users\DELL\Desktop\网编大作业\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.pdb
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\bin\Debug\Client.exe.config
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\bin\Debug\Client.exe
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\bin\Debug\Client.pdb
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\LoginForm.g.cs
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\MainWindow.g.cs
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\App.g.cs
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client_MarkupCompile.cache
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client_MarkupCompile.lref
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\LoginForm.baml
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\MainWindow.baml
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.g.resources
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.exe
+D:\Downloads\新建文件夹 (2)\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\回合制对战小游戏（最终版）\Client\obj\Debug\Client.pdb
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\bin\Debug\Client.exe.config
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\bin\Debug\Client.exe
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\bin\Debug\Client.pdb
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\LoginForm.g.cs
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\MainWindow.g.cs
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\App.g.cs
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\LoginForm.baml
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\MainWindow.baml
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\Client.g.resources
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\Client.exe
+C:\Users\白墨\Desktop\c#大实验提交\回合制对战小游戏（最终版）\Client\obj\Debug\Client.pdb

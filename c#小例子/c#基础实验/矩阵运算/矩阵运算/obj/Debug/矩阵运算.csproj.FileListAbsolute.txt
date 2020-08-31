@@ -1,0 +1,7 @@
+D:\c#\矩阵运算\矩阵运算\bin\Debug\矩阵运算.exe.config
+D:\c#\矩阵运算\矩阵运算\bin\Debug\矩阵运算.exe
+D:\c#\矩阵运算\矩阵运算\bin\Debug\矩阵运算.pdb
+D:\c#\矩阵运算\矩阵运算\obj\Debug\矩阵运算.csprojAssemblyReference.cache
+D:\c#\矩阵运算\矩阵运算\obj\Debug\矩阵运算.csproj.CoreCompileInputs.cache
+D:\c#\矩阵运算\矩阵运算\obj\Debug\矩阵运算.exe
+D:\c#\矩阵运算\矩阵运算\obj\Debug\矩阵运算.pdb
